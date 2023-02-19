@@ -1,6 +1,5 @@
 import math
- 
-  
+   
 N = int(input())
  
 if N==2:
